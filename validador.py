@@ -1,5 +1,5 @@
 
-def validate(opciones, eleccion):
+def validate(opciones, eleccion):    #recibe las opciones en una lista y lo que introdujo el usuario
     # Definir validación de eleccion
     ##########################################################################
     #pass

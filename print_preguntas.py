@@ -5,7 +5,12 @@ def print_pregunta(enunciado, alternativas):
     # Imprimir enunciado y alternativas
     ###############################################################
     #pass
+    print(f''' {enunciado[0]}
 
+    a. {alternativas[0][0]}
+    b. {alternativas[1][0]}
+    c. {alternativas[2][0]}
+    d. {alternativas[3][0]}''')
 
     
     
